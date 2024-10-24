@@ -3,7 +3,7 @@
         <template #title> Titel (span) </template>
         <template #default>
             <span> Innehåll </span>
-            <p>
+            <p style="width: 50%;">
                 <a class="anchor" href="" target="_blank"> Länk till annan sida </a>
             </p>
         </template>
